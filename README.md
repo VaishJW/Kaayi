@@ -1,4 +1,4 @@
-#Kaayi
+[]!(scrrenshots/header.png)
 
 A local-first Android app for splitting expenses with friends — no server, no account, no data leaving your device.
 
